@@ -23,6 +23,8 @@ public class App {
         infoCadastro.registroAluno = registro;
 
         infoCadastro.cadastroFinal();
+        
+        inputText.close();
 
     }
 }
